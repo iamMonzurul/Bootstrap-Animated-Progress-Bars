@@ -1,0 +1,74 @@
+html,
+body {
+        height:100%;
+        width:100%;
+        color: #566473;
+        background:#F1F4F9;
+        font-family: "Open Sans",Helvetica,Arial,sans-serif;
+        font-size: 14px;
+        line-height: 24px;
+}
+    
+body {
+    overflow-x:hidden
+}  
+    
+h1 {
+    font-size:36px;
+    letter-spacing:1px;
+    text-transform:uppercase;
+    margin-bottom: 40px;
+}
+
+
+.wrap {
+    height: 100%;
+    width: 100%;
+}
+
+.divider {
+    padding: 50px 0;
+    clear: both;
+}
+
+
+/*-------------------------------------------------------*/
+/* 1. Progress bar section
+/*-------------------------------------------------------*/
+
+.skills-wrap .container {
+    padding: 70px 0;
+}
+
+.progress {
+    height: 35px;
+    line-height: 35px;
+    margin-bottom: 45px;
+    background: #fff;
+    border-radius: 0;
+    box-shadow: none;
+    list-style: none;
+}
+
+.progress-bar {
+    font-weight: 600;
+    line-height: 35px;
+    padding-left: 20px;
+    text-align: left;
+}
+
+.progress-bar1 .progress-bar {
+    background: #026ea6;
+}
+
+.progress-bar2 .progress-bar {
+    background: #9e0b0f;
+}
+
+.progress-bar3 .progress-bar {
+    background: #59ab02;
+}
+
+
+
+
